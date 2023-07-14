@@ -1,7 +1,0 @@
-{
-  "name": "GroceryApp",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react-vite"
-}
